@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Carta de Feliz Aniversário</title>
+	Carta de Feliz Aniversário
 	<link rel="stylesheet" type="text/css" href="estilos.css">
 </head>
 <body>
