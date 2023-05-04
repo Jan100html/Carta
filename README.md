@@ -14,7 +14,7 @@
 		<p>Que este novo ano de vida seja repleto de novas conquistas, aprendizados e momentos especiais.</p>
 		<p>Parabéns e muitas felicidades!</p>
 		<p>Com carinho,</p>
-		<p>Seu nome</p>
+		<p>Jansen</p>
 	</main>
 </body>
 </html>
