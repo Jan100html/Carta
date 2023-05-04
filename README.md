@@ -1,19 +1,20 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<title>Carta de Feliz Aniversário</title>
+	<link rel="stylesheet" type="text/css" href="estilos.css">
 </head>
 <body>
 	<header>
-		<h1>Minha carta em HTML</h1>
+		<h1>Carta de Feliz Aniversário</h1>
 	</header>
 	<main>
 		<p>Olá,</p>
-		<p>Espero que esta carta encontre você bem. Eu queria apenas dizer oi e contar como estou animado para aprender HTML!</p>
-		<p>Atenciosamente,</p>
+		<p>Queria aproveitar esta oportunidade para desejar um feliz aniversário! Espero que seu dia seja repleto de alegria e felicidade.</p>
+		<p>Que este novo ano de vida seja repleto de novas conquistas, aprendizados e momentos especiais.</p>
+		<p>Parabéns e muitas felicidades!</p>
+		<p>Com carinho,</p>
 		<p>Seu nome</p>
 	</main>
-	<footer>
-		<p>© 2023 - Todos os direitos reservados</p>
-	</footer>
 </body>
 </html>
