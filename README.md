@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Minha carta em HTML</title>
 </head>
 <body>
 	<header>
